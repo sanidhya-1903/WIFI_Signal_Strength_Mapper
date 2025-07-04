@@ -242,3 +242,37 @@ Timestamp,SSID,RSSI
 2025-07-04 13:45:28,Siyaram,-88
 2025-07-04 13:45:28,Abhinav,-73
 2025-07-04 13:45:28,Neha-2.5,-86
+Timestamp,SSID,RSSI,Location,Avg_RSSI,Std_Dev,Above_Threshold(%)
+2025-07-04 17:16:35,UHP Guest,-93,Hall,-93,0,0.0
+2025-07-04 17:16:35,AirFiber-Ahk2ei,-82,Hall,-82,0,0.0
+2025-07-04 17:16:35,Singhania,-88,Hall,-88,0,0.0
+2025-07-04 17:16:35,Singhania_IoT,-87,Hall,-87,0,0.0
+2025-07-04 17:16:35,Thanu Nanjappa,-73,Hall,-73,0,100.0
+2025-07-04 17:16:35,Hallelujah,-74,Hall,-74,0,100.0
+2025-07-04 17:16:35,IXøY<<,-75,Hall,-75,0,0.0
+2025-07-04 17:16:35,Siyaram,-61,Hall,-61,0,100.0
+2025-07-04 17:16:35,Abhinav,-72,Hall,-72,0,100.0
+2025-07-04 17:16:35,Airtel_VBC,-94,Hall,-94,0,0.0
+2025-07-04 17:16:39,AirFiber-Ahk2ei,-80,Hall,-81,1.41,0.0
+2025-07-04 17:16:39,Thanu Nanjappa,-74,Hall,-73.5,0.71,100.0
+2025-07-04 17:16:39,Hallelujah,-75,Hall,-74.5,0.71,50.0
+2025-07-04 17:16:39,IXøY<<,-75,Hall,-75,0.0,0.0
+2025-07-04 17:16:39,Siyaram,-60,Hall,-60.5,0.71,100.0
+2025-07-04 17:16:39,Siyaram,-76,Hall,-65.67,8.96,66.7
+Timestamp,SSID,RSSI,Location,Avg_RSSI,Std_Dev,Above_Threshold(%)
+Timestamp,SSID,RSSI,Location,Avg_RSSI,Std_Dev,Above_Threshold(%)
+2025-07-04 17:32:12,AirFiber-Ahk2ei,-83,Hall,-83,0,0.0
+2025-07-04 17:32:12,Singhania_IoT,-78,Hall,-78,0,0.0
+2025-07-04 17:32:12,Hallelujah,-75,Hall,-75,0,0.0
+2025-07-04 17:32:12,Neha-2.5,-87,Hall,-87,0,0.0
+2025-07-04 17:32:12,Siyaram,-57,Hall,-57,0,100.0
+2025-07-04 17:32:12,Abhinav,-71,Hall,-71,0,100.0
+2025-07-04 17:32:25,Singhania_IoT,-83,Hall,-80.5,3.54,0.0
+2025-07-04 17:32:25,Thanu Nanjappa,-88,Hall,-88,0,0.0
+2025-07-04 17:32:25,AirFiber-Ahk2ei,-91,Hall,-87,5.66,0.0
+2025-07-04 17:32:25,Hallelujah,-78,Hall,-76.5,2.12,0.0
+2025-07-04 17:32:25,IXøY<<,-78,Hall,-78,0,0.0
+2025-07-04 17:32:25,RAYINTECRATED02-2.4G,-94,Hall,-94,0,0.0
+2025-07-04 17:32:25,Neha-2.5,-93,Hall,-90,4.24,0.0
+2025-07-04 17:32:25,Siyaram,-58,Hall,-57.5,0.71,100.0
+2025-07-04 17:32:25,Abhinav,-70,Hall,-70.5,0.71,100.0
